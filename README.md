@@ -20,4 +20,7 @@ A Simple Email Client which do some basic functionalities
 
 - [JavaMailAPI](http://www.oracle.com/technetwork/java/javamail/index.html)
 
+## Note
 
+- To use it with Gmail you should Allow less secure apps.
+![](Note.png)
