@@ -16,7 +16,7 @@ A Simple Email Client which do some basic functionalities
 
 - Java SE Runtime
 
-##Project API
+## Project API
 
 - [JavaMailAPI](http://www.oracle.com/technetwork/java/javamail/index.html)
 
